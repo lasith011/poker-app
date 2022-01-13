@@ -17,7 +17,7 @@ or for the windows
 ex:
 **$ cat poker-hands.txt | java -jar target/poker-app-1.0-SNAPSHOT.jar**
 
-###Output
+### Output
 
 Player 1: 263
 
